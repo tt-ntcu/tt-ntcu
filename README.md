@@ -1,7 +1,7 @@
 ## Hi there, I'm TT! 👋
 
 🎯 **目標**：學習成為專業的工程師  
-💡 **興趣**：Web development、cryptography、IoT、AI imaging processing
+💡 **興趣**：Web development、cryptography、IoT、AI imaging processing  
 🚀 **技術**：C/C++/C# | Java | HTML | PHP | JavaScript | Python  
 
 ---
